@@ -41,4 +41,4 @@ Bransden, B., and C. Joachain. "Summary of Units." Appendix 11 in _Physics of At
 Molecular Dynamics
 ------------------
 
-Ercolessi, Furio. "[Molecular Dynamics Primer](https://www.passeidireto.com/arquivo/5685503/a-molecular-dynamics-primer---furio-ercolessi)."
+Ercolessi, Furio. "{{% resource_link "fa539794-f5a5-4d9f-a8b2-78d97f860293" "Molecular Dynamics Primer" %}}."

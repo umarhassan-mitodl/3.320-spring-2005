@@ -5,8 +5,6 @@ description: 'This resource contains the input example used in the lab 3: Densit
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/02a562380e0f4ed2d2ece2fed226197c_INPUT_PW.txt
 file_size: 35564
 file_type: text/plain
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

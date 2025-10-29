@@ -6,8 +6,6 @@ description: This resource contains 7 questions which based on absolute energies
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/9313756ca81afcd3f1e27482faa38285_lab_assignment2.pdf
 file_size: 36390
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

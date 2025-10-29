@@ -7,8 +7,6 @@ description: 'This file is an annotated version of class notes "Advanced DFT: Su
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/bfdb8e9d95f759aad5ed7f3529e01600_3_03a_note.pdf
 file_size: 911647
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

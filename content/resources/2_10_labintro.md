@@ -5,8 +5,6 @@ description: This file explains process of performing simple defect calculations
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/7a0d6dbd3d8c3b06abc0cad3a01057f8_2_10_labintro.pdf
 file_size: 172138
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

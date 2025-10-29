@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: The labs section contains a set of assigned problems.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -66,7 +64,7 @@ Lab 2: Density Functional Theory I ({{% resource_link 9313756c-a81a-fcd3-f1e2-74
 {{< tdopen >}}
 
 
-[Quantum-Espresso](http://www.quantum-espresso.org/)
+{{% resource_link "439a5d6a-c873-40ce-9875-8fb4ed9da370" "Quantum-Espresso" %}}
 
 Quantum-Espresso: A First-Principles Code ({{% resource_link b5179173-234e-7351-3a10-bd4dde535da0 "PDF" %}})
 
@@ -89,7 +87,7 @@ Lab 3: Density Functional Theory II ({{% resource_link a8c26f60-02bf-0b79-fe62-b
 {{< tdopen >}}
 
 
-[Quantum-Espresso](http://www.quantum-espresso.org/)
+{{% resource_link "439a5d6a-c873-40ce-9875-8fb4ed9da370" "Quantum-Espresso" %}}
 
 Quantum-Espresso: A First Principles Code, Part 2 ({{% resource_link 24f633ec-df80-e676-1183-769da9bb7388 "PDF" %}})
 

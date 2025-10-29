@@ -4,8 +4,6 @@ description: ''
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/9ef442b170cc401731b45c9d5a60ec6e_kHdqdTe7G44.pdf
 file_size: 107835
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

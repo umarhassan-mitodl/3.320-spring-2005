@@ -7,8 +7,6 @@ description: 'This file is an annotated version of class note "Introduction to t
 file: /courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/b44fe2f07f6711c37459c0bbc3bbcde8_2_03_note.pdf
 file_size: 654101
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

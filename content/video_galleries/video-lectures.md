@@ -1,8 +1,6 @@
 ---
 content_type: video_gallery
 description: The video lectures section contains videos for assigned lecture topics.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

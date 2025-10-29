@@ -42,8 +42,7 @@
     "website": "3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005"
   },
   "course_title": "Atomistic Computer Modeling of Materials (SMA 5107)",
-  "hide_download": true,
-  "course_description": "This course uses the theory and application of atomistic computer simulations to model, understand, and predict the properties of real materials. Specific topics include: energy models from classical potentials to first-principles approaches; density functional theory and the total-energy pseudopotential method; errors and accuracy of quantitative predictions: thermodynamic ensembles, Monte Carlo sampling and molecular dynamics simulations; free energy and phase transitions; fluctuations and transport properties; and coarse-graining approaches and mesoscale models. The course employs case studies from industrial applications of advanced materials to nanotechnology. Several laboratories will give students direct experience with simulations of classical force fields, electronic-structure approaches, molecular dynamics, and Monte Carlo.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5107 (Atomistic Computer Modeling of Materials).\n\nAcknowledgements\n----------------\n\nSupport for this course has come from the [National Science Foundation's Division of Materials Research](http://www.nsf.gov/div/index.jsp?div=DMR) (grant DMR-0304019) and from the [Singapore-MIT Alliance](http://web.mit.edu/sma/).\n",
+  "course_description": "This course uses the theory and application of atomistic computer simulations to model, understand, and predict the properties of real materials. Specific topics include: energy models from classical potentials to first-principles approaches; density functional theory and the total-energy pseudopotential method; errors and accuracy of quantitative predictions: thermodynamic ensembles, Monte Carlo sampling and molecular dynamics simulations; free energy and phase transitions; fluctuations and transport properties; and coarse-graining approaches and mesoscale models. The course employs case studies from industrial applications of advanced materials to nanotechnology. Several laboratories will give students direct experience with simulations of classical force fields, electronic-structure approaches, molecular dynamics, and Monte Carlo.\n\nThis course was also taught as part of the {{% resource_link \"3b4f5835-ca2a-4ffc-91b0-2295b12f3576\" \"Singapore-MIT Alliance\" %}} (SMA) programme as course number SMA 5107 (Atomistic Computer Modeling of Materials).\n\nAcknowledgements\n----------------\n\nSupport for this course has come from the {{% resource_link \"ff3b6ec6-28b4-4e03-8a8d-fb45ce51d74b\" \"National Science Foundation's Division of Materials Research\" %}} (grant DMR-0304019) and from the {{% resource_link \"3b4f5835-ca2a-4ffc-91b0-2295b12f3576\" \"Singapore-MIT Alliance\" %}}.\n",
   "department_numbers": [
     "3"
   ],
@@ -53,7 +52,6 @@
     "content": "2c67ec70-02b9-d0d7-6d85-8410d4ab28ef",
     "website": "3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",
